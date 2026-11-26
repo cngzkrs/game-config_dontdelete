@@ -1,1 +1,66 @@
-{}
+{
+  "seasons": {
+    "more": [
+      {
+        "id": "blackfriday2026",
+        "start": "2026-11-26",
+        "end": "2026-12-01",
+        "priority": 5,
+        "minVersion": "1.0.3",
+        "badge": false,
+        "keepItems": false,
+        "name": {
+          "en": "Black Friday",
+          "tr": "Black Friday",
+          "de": "Black Friday",
+          "es": "Black Friday",
+          "fr": "Black Friday",
+          "id": "Black Friday",
+          "it": "Black Friday",
+          "ja": "ブラックフライデー",
+          "ko": "블랙 프라이데이",
+          "pt": "Black Friday",
+          "ru": "Чёрная пятница",
+          "zh-Hans": "黑色星期五",
+          "zh-Hant": "黑色星期五"
+        },
+        "coinBonus": 0.5,
+        "bonusProducts": [
+          "bundle_s",
+          "bundle_m",
+          "bundle_l"
+        ]
+      },
+      {
+        "id": "winterbonus2026",
+        "start": "2026-12-01",
+        "end": "2026-12-16",
+        "priority": 5,
+        "minVersion": "1.0.3",
+        "badge": false,
+        "keepItems": false,
+        "name": {
+          "en": "Winter Festival Bonus",
+          "tr": "Kış Festivali Bonusu",
+          "de": "Winterfest-Bonus",
+          "es": "Bono del Festival de invierno",
+          "fr": "Bonus du Festival d'hiver",
+          "id": "Bonus Festival Musim Dingin",
+          "it": "Bonus Festival d'inverno",
+          "ja": "ウィンターフェスティバル ボーナス",
+          "ko": "겨울 축제 보너스",
+          "pt": "Bônus do Festival de Inverno",
+          "ru": "Бонус Зимнего фестиваля",
+          "zh-Hans": "冬季庆典奖励",
+          "zh-Hant": "冬季慶典獎勵"
+        },
+        "coinBonus": 0.5,
+        "bonusProducts": [
+          "bundle_s",
+          "bundle_m",
+          "bundle_l"
+        ]
+      }
+    ]
+  }
+}
